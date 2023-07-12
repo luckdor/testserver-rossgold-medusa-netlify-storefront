@@ -25,7 +25,7 @@ const Wrapper: React.FC<WrapperProps> = ({ paymentSession, children }) => {
   }
 }
 
-const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_KEY || "")
+const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_KEY || "pk_test_5iVB7Mw552b8tpmCdJyu5MLi")
 
 const StripeWrapper: React.FC<WrapperProps> = ({
   paymentSession,
