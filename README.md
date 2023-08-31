@@ -44,7 +44,7 @@ The Medusa Next.js Starter is built with:
 
 ## Deploy in 5 minutes
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/medusajs/nextjs-starter-medusa)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/luckdor/testserver-rossgold-medusa-netlify-storefront)
 
 ## Setting up the environment variables
 
