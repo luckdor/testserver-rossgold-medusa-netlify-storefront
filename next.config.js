@@ -5,7 +5,8 @@ module.exports = withStoreConfig({
   features: store.features,
   reactStrictMode: true,
   images: {
-    domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com", "mwb-dhy00032.koyeb.app/uploads/images/"],
+    // domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com", "mwb-dhy00032.koyeb.app/uploads/images/"],
+    domains:"mwb-dhy00032.koyeb.app",
   },
 })
 
