@@ -10,6 +10,7 @@ module.exports = withStoreConfig({
         // ...
         "https://mwb-dhy00032.koyeb.app",
       ],
+    },
 })
 
 console.log("next.config.js", JSON.stringify(module.exports, null, 2))
