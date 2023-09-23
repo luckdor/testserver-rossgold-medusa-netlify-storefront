@@ -67,7 +67,7 @@
 //       </div>
 //       <div className="flex flex-col-reverse gap-y-4 justify-center xsmall:items-center xsmall:flex-row xsmall:items-end xsmall:justify-between">
 //         <span className="text-xsmall-regular text-gray-500">
-//           © Copyright 2022 ACME
+//           © Copyright 2023 WICA
 //         </span>
 //         <div className="min-w-[316px] flex xsmall:justify-end">
 //           <CountrySelect />
@@ -124,12 +124,12 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  GitHub
+                  Contact us via Scanning
                 </a>
               </li>
               <li>
                 <a
-                  href="https://wica.wica.ontheweb.nu"
+                  href="https://photos.onedrive.com/share/42DCABA6199E2232!148?cid=42DCABA6199E2232&resId=42DCABA6199E2232!148&authkey=!AOVi5pl8GZ5SfjA&ithint=photo&e=LWs1AP"
                   target="_blank"
                   rel="noreferrer"
                 >
