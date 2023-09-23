@@ -124,7 +124,7 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Contact us via Scanning
+                  Contact us via wechat scanning
                 </a>
               </li>
               <li>
@@ -133,7 +133,7 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Documentation
+                  Contact us via facebook messenger
                 </a>
               </li>
               <li>
@@ -142,7 +142,7 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source code
+                  Homepage
                 </a>
               </li>
             </ul>
