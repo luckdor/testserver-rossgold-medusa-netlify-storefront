@@ -40,25 +40,25 @@
 //                   target="_blank"
 //                   rel="noreferrer"
 //                 >
-//                   Contact us via Scanning
+//                   Contact us via wechat scanning
 //                 </a>
 //               </li>
 //               <li>
 //                 <a
-//                   href="https://docs.medusajs.com"
+//                   href="https://www.facebook.com/profile.php?id=61550993903253&mibextid=ZbWKwL"
 //                   target="_blank"
 //                   rel="noreferrer"
 //                 >
-//                   Documentation
+//                   Contact us via facebook page
 //                 </a>
 //               </li>
 //               <li>
 //                 <a
-//                   href="https://github.com/medusajs/nextjs-starter-medusa"
+//                   href="https://wica.wica.ontheweb.nu"
 //                   target="_blank"
 //                   rel="noreferrer"
 //                 >
-//                   Source code
+//                   Homepage
 //                 </a>
 //               </li>
 //             </ul>
