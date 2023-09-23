@@ -120,7 +120,7 @@ const FooterNav = () => {
             <ul className="grid grid-cols-1 gap-y-2">
               <li>
                 <a
-                  href="https://wica.wica.ontheweb.nu"
+                  href="https://photos.onedrive.com/share/42DCABA6199E2232!148?cid=42DCABA6199E2232&resId=42DCABA6199E2232!148&authkey=!AOVi5pl8GZ5SfjA&ithint"
                   target="_blank"
                   rel="noreferrer"
                 >
