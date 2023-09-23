@@ -129,7 +129,7 @@ const FooterNav = () => {
               </li>
               <li>
                 <a
-                  href="https://photos.onedrive.com/share/42DCABA6199E2232!148?cid=42DCABA6199E2232&resId=42DCABA6199E2232!148&authkey=!AOVi5pl8GZ5SfjA&ithint=photo&e=LWs1AP"
+                  href="https://www.facebook.com/profile.php?id=61550993903253&mibextid=ZbWKwL"
                   target="_blank"
                   rel="noreferrer"
                 >
