@@ -133,16 +133,16 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Contact us via facebook messenger
+                  Contact us via facebook page
                 </a>
               </li>
               <li>
                 <a
-                  href="https://wica.wica.ontheweb.nu"
+                  href="https://1drv.ms/i/s!AjIinhmmq9xCgRV2gxBxkNk5QoVA?e=izjQMJ"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Homepage
+                  Contact via tiktok scanning
                 </a>
               </li>
             </ul>
